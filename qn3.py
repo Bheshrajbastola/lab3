@@ -9,4 +9,5 @@ def shownumber(limit):
             print(i,"even")
         else:
             print(i,"odd")
+
 shownumber(10)
